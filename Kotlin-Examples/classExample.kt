@@ -23,6 +23,6 @@ fun main(){
     println(c1.model)
     println(c1.marka)
     println(c1.yas)
+    println(c1.speed)
     
 }
-
